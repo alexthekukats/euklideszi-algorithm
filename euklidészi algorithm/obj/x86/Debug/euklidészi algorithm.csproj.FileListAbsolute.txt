@@ -1,0 +1,11 @@
+C:\Users\Alex\Documents\C# Progik\euklidészi algorithm\euklidészi algorithm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Documents\C# Progik\euklidészi algorithm\euklidészi algorithm\bin\Debug\euklidészi algorithm.exe
+C:\Users\Alex\Documents\C# Progik\euklidészi algorithm\euklidészi algorithm\bin\Debug\euklidészi algorithm.pdb
+C:\Users\Alex\Documents\C# Progik\euklidészi algorithm\euklidészi algorithm\obj\x86\Debug\euklidészi algorithm.exe
+C:\Users\Alex\Documents\C# Progik\euklidészi algorithm\euklidészi algorithm\obj\x86\Debug\euklidészi algorithm.pdb
+D:\Alex\Dokkok\GitHub\euklidészi algorithm\euklidészi algorithm\obj\x86\Debug\euklidészi algorithm.csprojResolveAssemblyReference.cache
+D:\Alex\Dokkok\GitHub\euklidészi algorithm\euklidészi algorithm\obj\x86\Debug\euklidészi algorithm.csproj.CoreCompileInputs.cache
+D:\Alex\Dokkok\GitHub\euklidészi algorithm\euklidészi algorithm\obj\x86\Debug\euklidészi algorithm.exe
+D:\Alex\Dokkok\GitHub\euklidészi algorithm\euklidészi algorithm\bin\Debug\euklidészi algorithm.exe
+D:\Alex\Dokkok\GitHub\euklidészi algorithm\euklidészi algorithm\bin\Debug\euklidészi algorithm.pdb
+D:\Alex\Dokkok\GitHub\euklidészi algorithm\euklidészi algorithm\obj\x86\Debug\euklidészi algorithm.pdb
